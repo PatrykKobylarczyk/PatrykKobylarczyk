@@ -40,18 +40,18 @@ I am a choir conductor by education. My adventure with the FrontEnd started in m
 
 
 ### My interests?
-<br >
+
 <a href='https://zirkelstudio.de/'><img alt="Real estate photography" src="https://img.shields.io/badge/-Real estate photography => click-0a9396?style=for-the-badge" /></a>
 <img alt="Playing a Guitar & Piano" src="https://img.shields.io/badge/-Playing the Guitar & Piano-94d2bd?style=for-the-badge" /> <img alt="running" src="https://img.shields.io/badge/-running-e9d8a6?style=for-the-badge" /> <img alt="healthy lifestyle" src="https://img.shields.io/badge/-healthy lifestyle-ee9b00?style=for-the-badge" /> <img alt="Traveling" src="https://img.shields.io/badge/-Traveling-ca6702?style=for-the-badge" /> <img alt="Technologies" src="https://img.shields.io/badge/-Technologies-bb3e03?style=for-the-badge" /> <img alt="Football" src="https://img.shields.io/badge/-Football-ae2012?style=for-the-badge" />
 <br >
 
 ### What I love?
-<br >
+
 <img alt="My family" src="https://img.shields.io/badge/-My family-e63946?style=for-the-badge" /> <img alt="Coffee" src="https://img.shields.io/badge/-Coffee-bc6c25?style=for-the-badge" />
 <br >
 
 ### Am I famous?
-<br >
+
 <img src="https://komarev.com/ghpvc/?username=PatrykKobylarczyk&style=for-the-badge&color=90a955"/>
 <br >
 
