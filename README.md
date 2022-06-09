@@ -15,14 +15,7 @@ I am a choir conductor by education. My adventure with the FrontEnd started in m
 
 ## Tools:
 
-<img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-<img alt="VS Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/>
-<img alt="GIT" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img alt="GitHub" src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
-<img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?style=for-the-badge&logo=github&logoColor=white"/>
-<img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white" />
-<img alt="ESLint" src="https://img.shields.io/badge/-ESLint-4B32C3?style=for-the-badge&logo=ESLint&logoColor=white"/>
-<img alt="Material UI" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
+<img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" /><img alt="VS Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/><img alt="GIT" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" /><img alt="GitHub" src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=GitHub&logoColor=white"/><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?style=for-the-badge&logo=github&logoColor=white"/><img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white" /><img alt="ESLint" src="https://img.shields.io/badge/-ESLint-4B32C3?style=for-the-badge&logo=ESLint&logoColor=white"/><img alt="Material UI" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
 <br>
 <br>
 
