@@ -21,7 +21,7 @@ I am a choir conductor by education. My adventure with the FrontEnd started in m
 
 ## Source of knowledge:
 
-<img alt="Udemy" src="https://img.shields.io/badge/Udemy-7209b7?style=for-the-badge&logo=Udemy&logoColor=white"/> <img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/> <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=ESLint&logoColor=white"/>![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
+<img alt="Udemy" src="https://img.shields.io/badge/Udemy-7209b7?style=for-the-badge&logo=Udemy&logoColor=white"/> <img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/> <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=ESLint&logoColor=white"/> ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey) ![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
 <br>
 <br>
 
