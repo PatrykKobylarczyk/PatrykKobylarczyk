@@ -58,6 +58,4 @@ I am a choir conductor by education. My adventure with the FrontEnd started in m
 ### Not really😁
 
 
-![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
-
 
