@@ -14,7 +14,7 @@ I am a choir conductor by education. My adventure with the FrontEnd started in m
 <br>
 
 ## In progress
-[![Typescript Badge](https://img.shields.io/badge/-Typescript-e3178c6?style=for-the-badge&labelColor=black&logo=typescript&logoColor=e3178c6)](#)
+[![Typescript Badge](https://img.shields.io/badge/-Typescript?style=for-the-badge&labelColor=black&logo=typescript&logoColor=e3178c6)](#)
 <br>
 <br>
 ## Tools:
